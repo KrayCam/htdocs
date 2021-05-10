@@ -1,0 +1,6 @@
+<form action="includes/signup.php" method="post"> 
+                    <input type="text" name="mailuid" placeholder="e-mail">
+                    <input type="password" name="pwd" plassholder="password">
+                    <button type="submit" name="signup-submit">signup</button>
+                </form>
+            </div>

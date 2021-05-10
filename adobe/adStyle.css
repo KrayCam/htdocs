@@ -1,0 +1,266 @@
+	.mediaViewInfo {
+		--web-view-name: home;
+		--web-view-id: home;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	:root {
+		--web-view-ids: home;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#home {
+		position: absolute;
+		width: 1920px;
+		height: 1080px;
+		background-color: rgba(255,252,233,1);
+		overflow: hidden;
+		--web-view-name: home;
+		--web-view-id: home;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	#neon {
+		position: absolute;
+		width: 913.719px;
+		height: 813.314px;
+		left: 149.029px;
+		top: 178.477px;
+		overflow: visible;
+	}
+	#Component_4___2 {
+		position: absolute;
+		width: 913.719px;
+		height: 813.314px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	.Path_3 {
+		overflow: visible;
+		position: absolute;
+		width: 904.763px;
+		height: 774.189px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Component_3___1 {
+		position: absolute;
+		width: 777.659px;
+		height: 705.358px;
+		left: 76.231px;
+		top: 15.368px;
+		overflow: visible;
+	}
+	.Path_2_q {
+		overflow: visible;
+		position: absolute;
+		width: 733.702px;
+		height: 655.775px;
+		transform: translate(0px, 0px) matrix(1,0,0,1,21.9786,24.7915) rotate(-4deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+	}
+	.Top_x {
+		overflow: visible;
+		position: absolute;
+		width: 142.598px;
+		height: 424.443px;
+		transform: translate(0px, 0px) matrix(1,0,0,1,384.0287,120.3661) rotate(4deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+	}
+	.Bot_X {
+		overflow: visible;
+		position: absolute;
+		width: 153.366px;
+		height: 147.063px;
+		left: 403.493px;
+		top: 545.552px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Red_Text {
+		position: absolute;
+		width: 560.003px;
+		height: 168.369px;
+		left: 353.716px;
+		top: 644.945px;
+		overflow: visible;
+	}
+	.All_red {
+		overflow: visible;
+		position: absolute;
+		width: 552.269px;
+		height: 130.162px;
+		transform: translate(0px, 0px) matrix(1,0,0,1,3.8672,19.1036) rotate(-4deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+	}
+	#no_fill {
+		position: absolute;
+		width: 913.719px;
+		height: 813.314px;
+		left: 149.029px;
+		top: 186.477px;
+		overflow: visible;
+	}
+	#Component_4___3 {
+		position: absolute;
+		width: 913.719px;
+		height: 813.314px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	.Path_3_x {
+		overflow: visible;
+		position: absolute;
+		width: 904.763px;
+		height: 774.189px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Component_3___1_y {
+		position: absolute;
+		width: 777.659px;
+		height: 705.358px;
+		left: 76.231px;
+		top: 15.368px;
+		overflow: visible;
+	}
+	.Path_2_z {
+		overflow: visible;
+		position: absolute;
+		width: 733.702px;
+		height: 655.775px;
+		transform: translate(0px, 0px) matrix(1,0,0,1,21.9786,24.7915) rotate(-4deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+	}
+	.Norm {
+		overflow: visible;
+		position: absolute;
+		width: 552.269px;
+		height: 130.162px;
+		transform: translate(0px, 0px) matrix(1,0,0,1,357.5827,664.049) rotate(-4deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+	}
+	.Top_x_ {
+		overflow: visible;
+		position: absolute;
+		width: 142.598px;
+		height: 424.443px;
+		transform: translate(0px, 0px) matrix(1,0,0,1,384.0287,120.3661) rotate(4deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+	}
+	.Bot_X_ {
+		overflow: visible;
+		position: absolute;
+		width: 153.366px;
+		height: 147.063px;
+		left: 403.493px;
+		top: 545.552px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Red_Text_ {
+		position: absolute;
+		width: 560.003px;
+		height: 168.369px;
+		left: 353.716px;
+		top: 644.945px;
+		overflow: visible;
+	}
+	.All_red_ {
+		overflow: visible;
+		position: absolute;
+		width: 552.269px;
+		height: 130.162px;
+		transform: translate(0px, 0px) matrix(1,0,0,1,3.8672,19.1037) rotate(-4deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+	}
+	#WELCOME_TO_NOTA_ {
+		position: absolute;
+		left: 59px;
+		top: -13px;
+		overflow: visible;
+		width: 1094px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Hollywood Hills;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 135px;
+		color: rgba(0,0,0,0.502);
+	}
+	#Your_source_for_free_qualitive {
+		position: absolute;
+		left: 832px;
+		top: 186px;
+		overflow: visible;
+		width: 961px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Century Gothic;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(0,0,0,0.749);
+	}
+	#arrow {
+		position: absolute;
+		width: 485.622px;
+		height: 157.676px;
+		left: 1387.526px;
+		top: 890.306px;
+		overflow: visible;
+	}
+	#Group_2 {
+		position: absolute;
+		width: 485.622px;
+		height: 157.676px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	.arrow_ {
+		overflow: visible;
+		position: absolute;
+		width: 485.622px;
+		height: 157.676px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+  .arrow_:hover {
+    filter: invert(1);
+  }
+	#Continue_to_site {
+		position: absolute;
+		left: 39.474px;
+		top: 22.694px;
+		overflow: visible;
+		width: 324px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Hollywood Hills;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 40px;
+		color: rgba(0,0,0,0.502);
+	}

@@ -1,0 +1,105 @@
+/*
+==========================
+FILE:$ style.css
+OWNER: Ryan Kraynak
+email: kraycam@protonmail
+phone: (614) 288-1250
+UPKEEP: Unfiled
+LASTED UPDATED: 12/30/2020
+:V.0.0.1
+=========================
+COMMENTS
++++++++++++++++++++++++++
+When Broswer Colapses Make sure navBar elements receive out line (probably gradient of lighter color would work)
+
+Choose Finalized KnackShack @font-face {} -if we wanted our own custom @font-face {
+
+}
+
+*/
+:root {
+  --bg: white;
+  --nb: black;
+  --ban:#089C7C;
+  --ban-h: #12B395;
+  --nb-text: hsl(0, 0%, 100%);
+  --c-yell: rgb(255, 220, 0);
+  --c-red: rgb(255, 0, 0);
+}
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: var(--bg);
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  margin-left: 5em;
+  margin-right: 5em;
+}
+
+/* SiteMap */
+.navBar {
+  width: 100%;
+  background-color: var(--bg);
+  height: 10%;
+  position: fixed;
+}
+
+.logo {
+  margin: 0;
+  padding: 0;
+  height: auto;
+  width: auto;
+  /* max-width:
+  max-width:
+  */
+}
+
+.navMap ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.navMap li {
+  display: inline-block;
+}
+
+.navMap li:hover {
+  background-color: var(--c-yell);
+  height: 100%;
+}
+
+.navMap li a{
+  padding: 16px;
+  text-transform: uppercase;
+  text-decoration: none;
+  display: inline-block;
+  color: var(--nb);
+  font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+  height: 100%;
+}
+
+.navMap li a:hover {
+  text-decoration: none;
+  text-transform: lowercase;
+  font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+  color: var(--c-red);
+}
+
+.sBar {
+  margin: 0;
+  padding: 0;
+  float: right;
+  position: absolute;
+}
+/* Login */
+#profile{
+  float: left;
+}
